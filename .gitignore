@@ -3,3 +3,5 @@ VOCdevkit/
 
 \.directory
 
+
+\.ipynb_checkpoints/
