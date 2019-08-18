@@ -5,3 +5,7 @@ VOCdevkit/
 
 
 \.ipynb_checkpoints/
+
+*.pyc
+
+example\.py
