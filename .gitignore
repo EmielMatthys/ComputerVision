@@ -9,3 +9,7 @@ VOCdevkit/
 *.pyc
 
 example\.py
+
+autoencoder\.h5
+
+autoencoder\.json
