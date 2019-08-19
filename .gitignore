@@ -13,3 +13,7 @@ example\.py
 autoencoder\.h5
 
 autoencoder\.json
+
+objs\.pkl
+
+project_dataset_script_v2\.py
